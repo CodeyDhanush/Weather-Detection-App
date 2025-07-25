@@ -13,7 +13,7 @@ Features :
 - 🎨 Modern GUI using Tkinter with blue-black-white color theme
 - ⚡ Fast and lightweight
 
-  Tech Stack
+  Tech Stack :
 
 - Python
 - **Tkinter** for GUI
