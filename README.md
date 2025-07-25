@@ -1,4 +1,4 @@
-🌤 Weather Detection App (Tkinter + WeatherAPI)
+🌤 Weather Detection App (Tkinter + WeatherAPI):
 
 A simple and stylish Python desktop application built with **Tkinter** that fetches real-time weather data for any city using the **WeatherAPI**. This app provides temperature, humidity, pressure, and condition details with a clean black-blue-white themed GUI.
 
